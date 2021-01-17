@@ -140,7 +140,7 @@ Copyright &copy; 2021 [Instituto Superior Técnico](http://tecnico.ulisboa.pt/)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-The [`dataset-uta7-dicom`](https://github.com/MIMBCD-UI/dataset-uta7-ad) repository is distributed under the terms of [GNU AGPLv3](LICENSE) license and [CC-BY-SA-4.0](COPYING) copyright. Permissions of this license are conditioned on making available complete elements from this repository of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved.
+The [`dataset-uta7-ai`](https://github.com/MIMBCD-UI/dataset-uta7-ai) repository is distributed under the terms of [GNU AGPLv3](LICENSE) license and [CC-BY-SA-4.0](COPYING) copyright. Permissions of this license are conditioned on making available complete elements from this repository of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved.
 
 ### Team
 
